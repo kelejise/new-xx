@@ -21,7 +21,7 @@ spec:
         - name: PORT
           value: "8080"
         - name: ProxySite
-          value: "https://www.plex.tv"
+          value: "mirror.umd.edu"
         - name: Vless_UUID
           value: "e52d4005-4215-460a-b282-2eedb933f771"
         - name: Vless_Path

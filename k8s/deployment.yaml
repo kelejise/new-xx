@@ -23,11 +23,11 @@ spec:
         - name: ProxySite
           value: "https://www.plex.tv"
         - name: Vless_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "e52d4005-4215-460a-b282-2eedb933f771"
         - name: Vless_Path
           value: "/s233"
         - name: Vmess_UUID
-          value: "273d7707-9bb1-44ff-b24c-b59876344cac"
+          value: "e52d4005-4215-460a-b282-2eedb933f771"
         - name: Vmess_Path
           value: "/s244"
         - name: Share_Path

@@ -5,7 +5,7 @@
   "env": {
     "ProxySite": {
       "description": "反代一个网站，例如：mirror.umd.edu，不填写表示使用本地静态网页文件。",
-      "value": "https://www.plex.tv"
+      "value": "mirror.umd.edu"
     },
 
     "Vless_UUID": {
@@ -37,7 +37,7 @@
        "value": "latest"
      }
   },
-  "website": "https://github.com/wo1no/new-xray",
-  "repository": "https://github.com/wo1no/new-xray",
+  "website": "https://github.com/kelejise/new-xx",
+  "repository": "https://github.com/kelejise/new-xx",
   "stack": "container"
  }
